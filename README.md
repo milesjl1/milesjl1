@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @milesjl1
+- 👀 I’m interested in organizing data and creating models. 
+- 🌱 I’m currently learning Python. 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
